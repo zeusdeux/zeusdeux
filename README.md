@@ -1,1 +1,1 @@
-[![logo_192](https://mudit.xyz/public/icon/logo_192.png)](https://mudit.xyz)
+[![logo](https://screenie.zdx.cat/capture?src=https://mudit.xyz&selector=.logo&omitBackground=true&viewportHeight=800)](https://mudit.xyz)
